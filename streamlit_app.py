@@ -59,5 +59,3 @@ else:
         with col2:
             st.write(status_text)
         st.write("---")
-pip install google-genai pydantic
-
